@@ -31,13 +31,7 @@ Table 3: Mean, median and standard deviation of Facebook food & beverage categor
 	
 The volatility of 'talking about count' is examined. The result is shown in Figure 1.
 
-<img src="Figures/Figure1.png" width="500">
-
-Note: McDonalds and McDonaldsUS have almost identical growth and FB likes which made their graphs to overlap.
-
-From Figure 4, it can be seen that the Facebook page **McDUS** (purple) and **McD** (red is overlapped) have the **steepest curve**, followed by **KFC** (light blue), **Dominos** (green), and then **PizzaHut** (yellow).
-
-
+<img src="Figures/Figure1.png" width="400">
 
 ## Facebook likes examination
 The trend of Facebook likes gained over the years are examined. First, the absolute gain of Facebook likes for these food & beverage Facebook pages are computed and shown in Figure 2. 
@@ -60,6 +54,8 @@ Based on these observation, it can be concluded that **Strabucks** is likely to 
 
 Next, the top 5 normalised likes rate Facebook pages are plotted against the time scale as shown in Figue 4. Note that, the latest date of the month and the total like at that time are used to develop the graph.
 
-<img src="Figures/Figure4.png" width="400" >
+<img src="Figures/Figure4.png" width="500" >
 
+Note: McDonalds and McDonaldsUS have almost identical growth and FB likes which made their graphs to overlap.
 
+From Figure 4, it can be seen that the Facebook page **McDUS** (purple) and **McD** (red is overlapped) have the **steepest curve**, followed by **KFC** (light blue), **Dominos** (green), and then **PizzaHut** (yellow).
