@@ -34,6 +34,17 @@ The volatility of 'talking about count' is examined. The result is shown in Figu
 <p align="left">
   <img align="left" src="Figures/Figure1.png" width="400" align="left">
 </p>
+
+
+## Facebook likes examination
+The trend of Facebook likes gained over the years are examined. First, the absolute gain of Facebook likes for these Facebook food & beverage pages are computed and shown in Figure 2. 
+
+<p align="left">
+  <img align="left" src="Figures/Figure2.png" width="400" align="left">
+</p>
+
+Note: Dom=Dominos, PHut=Pizza Hut, PJ=PapaJohnUS, Chi=Chipotle, Stab=Starbucks, BK=Burger King
+The absolute **likes** gain does not take into account the existing size of the page as well as the time taken to gain the likes. In order to get a more comparable data, the **likes values are normalised** and then **divided by the time frame** taken to gain those number of likes.    
 	
 
 
