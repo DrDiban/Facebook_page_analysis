@@ -47,6 +47,14 @@ The absolute **likes** gain does not take into account the existing size of the 
 
 <img src="Figures/Figure3.png" width="400" >
 
+Note: Dom=Dominos, PHut=Pizza Hut, PJ=PapaJohnUS, Starb=Starbucks, Wen=Wendys, Chi=Chipotle, BK=Burger King
 
+Analysing Figure 2 and 3, **ALL** Facebook pages in top 10 absolute likes gain also made to the top 10 normalised likes rate. 
+
+The only different between these two figures is the **order** of the Facebook pages **Wendys, Chipotle and Strabucks**. In **Figure 2** (absolute likes gain) the order from 7-9 are as follows **Wendys, Chipotle then Strabucks**. While in **Figure 3** (normalised likes rate) the order from 7-9 are as follows **Strabucks, Wendys then Chipotle**.
+
+Based on these observation, it can be concluded that **Strabucks** is likely to **overtake Wendys then Chipotle** in absolute gain chart(Figure 2) in the near future.
+
+Next, the top 5 normalised likes rate Facebook pages are plotted against the time scale as shown in Figue 4. Note that, the latest date of the month and the total like at that time are used to develop the graph.
 
 
