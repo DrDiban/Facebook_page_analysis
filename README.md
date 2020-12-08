@@ -59,3 +59,22 @@ Next, the top 5 normalised likes rate Facebook pages are plotted against the tim
 Note: McDonalds and McDonaldsUS have almost identical growth and FB likes which made their graphs to overlap.
 
 From Figure 4, it can be seen that the Facebook page **McDUS** (purple) and **McD** (red is overlapped) have the **steepest curve**, followed by **KFC** (light blue), **Dominos** (green), and then **PizzaHut** (yellow).
+
+## Examination of relationship between Facebook likes and Facebook talking about count
+
+Next the top 5 Facebook pages that showed the most likes gained overtime are examined against the talking about count value. The aim here is to find whether there is a corelation between number or likes gained each month vs the talking about count. The number of likes gained each month determined by subtracting the newer month against the latest month likes count. While the average value of each month is used for talking about count value. Using these two values the corellation value is determined.
+
+Table 3: Mean, median and standard deviation of Facebook food & beverage category likes 
+
+| Index | Facebook page name | Correlation | 
+| --- | --- | --- |
+| 1 | McDonalds | 0.536754 |
+| 2 | McDonaldsUS | 0.107279 |
+| 3 | KFC | -0.318145 |
+| 4 | Dominos| 0.304336 |
+| 5 | PizzaHut | 0.487411 |
+
+McD has the higest correlation between likes and talking about count among the top 5 normalised likes growth Facebook pages. While, KFC has a negative relationship between likes and talking about count, a strange observation that requires further investigation.
+
+
+
