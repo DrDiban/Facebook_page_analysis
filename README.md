@@ -31,8 +31,11 @@ Table 3: Mean, median and standard deviation of Facebook food & beverage categor
 	
 The volatility of 'talking about count' is examined. The result is shown in Figure 1.
 
+<img src="Figures/Figure1.png" width="500">
 
-<img src="Figures/Figure1.png" width="400">
+Note: McDonalds and McDonaldsUS have almost identical growth and FB likes which made their graphs to overlap.
+
+From Figure 4, it can be seen that the Facebook page **McDUS** (purple) and **McD** (red is overlapped) have the **steepest curve**, followed by **KFC** (light blue), **Dominos** (green), and then **PizzaHut** (yellow).
 
 
 
