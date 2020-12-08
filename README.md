@@ -4,7 +4,7 @@ A set of data (147MB) comprising Facebook pages information such as likes, talki
 The data are filtered based on top 250 restaurant chain in US ('https://www.fsdbco.com/top-250-restaurant-chains-us-2019/')
 51 Facebook pages were idenfified related to the filter.
 
-Table 1: Top 5 most liked page in the dataset for food & beverage (USA) 
+**Table 1:** Top 5 most liked page in the dataset for food & beverage (USA) 
 | Index | Facebook page name | Facebook likes | 
 | --- | --- | --- |
 | 1 | McDonalds | 78,045,025 |
@@ -13,7 +13,7 @@ Table 1: Top 5 most liked page in the dataset for food & beverage (USA)
 | 4 | Starbucks | 37,189,939 |
 | 5 | PizzaHut | 31,513,432 |
 
-Table 2: Top 5 least liked page in the dataset for food & beverage (USA) 
+**Table 2:** Top 5 least liked page in the dataset for food & beverage (USA) 
 | Index | Facebook page name | Facebook likes | 
 | --- | --- | --- |
 | 1 | PolloTropical | 176,449 |
@@ -22,7 +22,7 @@ Table 2: Top 5 least liked page in the dataset for food & beverage (USA)
 | 4 | EddieVsPrimeSeafood | 74,770 |
 | 5 | Lubys | 35,593 |
 
-Table 3: Mean, median and standard deviation of Facebook food & beverage category likes 
+**Table 3:** Mean, median and standard deviation of Facebook food & beverage category likes 
 | Index | Facebook likes |
 | --- | --- |
 | median | 1.347616e+06 |
@@ -62,9 +62,9 @@ From Figure 4, it can be seen that the Facebook page **McDUS** (purple) and **Mc
 
 ## Examination of relationship between Facebook likes and Facebook talking about count
 
-Next the top 5 Facebook pages that showed the most likes gained overtime are examined against the talking about count value. The aim here is to find whether there is a corelation between number or likes gained each month vs the talking about count. The number of likes gained each month determined by subtracting the newer month against the latest month likes count. While the average value of each month is used for talking about count value. Using these two values the corellation value is determined.
+Next the top 5 Facebook pages that showed the most likes gained over time are examined against the talking about count value. The aim here is to find whether there is a corelation between number or likes gained each month vs the talking about count. The number of likes gained each month determined by subtracting the newer month against the latest month likes count. While the average value of each month is used for talking about count value. Using these two values the corellation value is determined.
 
-Table 3: Mean, median and standard deviation of Facebook food & beverage category likes 
+**Table 4:** Top 5 that showed the most likes gained over time correlation between likes gained each month and the talking about count
 
 | Index | Facebook page name | Correlation | 
 | --- | --- | --- |
