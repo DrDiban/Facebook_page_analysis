@@ -62,9 +62,9 @@ From Figure 4, it can be seen that the Facebook page **McDUS** (purple) and **Mc
 
 ## Examination of relationship between Facebook likes and Facebook talking about count
 
-Next the top 5 Facebook pages that showed the most likes gained over time are examined against the talking about count value. The aim here is to find whether there is a corelation between number or likes gained each month vs the talking about count. The number of likes gained each month determined by subtracting the newer month against the latest month likes count. While the average value of each month is used for talking about count value. Using these two values the corellation value is determined.
+Next the top 5 Facebook pages that showed the most likes gained over time are examined against the talking about count value. The aim here is to find whether there is a corelation between number or likes gained each month vs the talking about count. The number of likes gained each month determined by subtracting the newer month against the latest month likes count. While the average value of each month is used for talking about count value. Using these two values the corellation value is determined as shown in Table 4.
 
-**Table 4:** Top 5 that showed the most likes gained over time correlation between likes gained each month and the talking about count
+**Table 4:** Top 5 Facebook pages that showed the most likes gained over time correlation between likes gained each month and the talking about count
 
 | Index | Facebook page name | Correlation | 
 | --- | --- | --- |
