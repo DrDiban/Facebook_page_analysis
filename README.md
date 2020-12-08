@@ -6,7 +6,7 @@ The data are filtered based on top 250 restaurant chain in US ('https://www.fsdb
 
 The top 5 most liked pages are as follow:
 
-Table 1 
+Table 1:Top 5 most liked page in the dataset for food & beverage (USA) 
 | Index | Facebook page name | Facebook likes | 
 | --- | --- | --- |
 | 1 | McDonalds | 78,045,025 |
@@ -14,6 +14,18 @@ Table 1
 | 3 | KFC | 51,635,735 |
 | 4 | Starbucks | 37,189,939 |
 | 5 | PizzaHut | 31,513,432 |
+
+Table 2:Top 5 least liked page in the dataset for food & beverage (USA) 
+| Index | Facebook page name | Facebook likes | 
+| --- | --- | --- |
+| 1 | PolloTropical | 176,449 |
+| 2 | flemings | 122,103 |
+| 3 | GrandLuxCafe | 81,442 |
+| 4 | EddieVsPrimeSeafood | 74,770 |
+| 5 | Lubys | 35593 |
+
+
+
 
 
 
