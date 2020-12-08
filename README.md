@@ -74,7 +74,7 @@ Next the top 5 Facebook pages that showed the most likes gained over time are ex
 | 4 | Dominos| 0.304336 |
 | 5 | PizzaHut | 0.487411 |
 
-McD has the higest correlation between likes and talking about count among the top 5 normalised likes growth Facebook pages. While, KFC has a negative relationship between likes and talking about count, a strange observation that requires further investigation.
+McD (Figure 5) has the higest correlation between likes and talking about count among the top 5 normalised likes growth Facebook pages. While, KFC (Figure 6) has a negative relationship between likes and talking about count, a strange observation that requires further investigation.
 
 <img src="Figures/Figure5.png" width="500" >
 
