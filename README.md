@@ -29,10 +29,10 @@ Table 3: Mean, median and standard deviation of Facebook food & beverage categor
 | mean | 7.963902e+06 |
 | std | 1.768098e+07 |
 	
-The volatility of 'talking about count' is examined
+The volatility of 'talking about count' is examined. The result is shown in Figure 1.
 
-<p align="center">
-  <img align="center" src="Figures/Figure1.png" width="400" align="center">
+<p align="left">
+  <img align="left" src="Figures/Figure1.png" width="400" align="left">
 </p>
 	
 
