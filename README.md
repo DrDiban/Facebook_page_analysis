@@ -57,4 +57,6 @@ Based on these observation, it can be concluded that **Strabucks** is likely to 
 
 Next, the top 5 normalised likes rate Facebook pages are plotted against the time scale as shown in Figue 4. Note that, the latest date of the month and the total like at that time are used to develop the graph.
 
+<img src="Figures/Figure4.png" width="400" >
+
 
