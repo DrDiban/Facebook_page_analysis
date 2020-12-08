@@ -40,7 +40,7 @@ The volatility of 'talking about count' is examined. The result is shown in Figu
 The trend of Facebook likes gained over the years are examined. First, the absolute gain of Facebook likes for these Facebook food & beverage pages are computed and shown in Figure 2. 
 
 
- <img align="left" src="Figures/Figure2.png" width="400" >
+ <img src="Figures/Figure2.png" width="400" >
 	
 Note: Dom=Dominos, PHut=Pizza Hut, PJ=PapaJohnUS, Chi=Chipotle, Stab=Starbucks, BK=Burger King
 
