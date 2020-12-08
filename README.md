@@ -32,7 +32,7 @@ Table 3: Mean, median and standard deviation of Facebook food & beverage categor
 The volatility of 'talking about count' is examined. The result is shown in Figure 1.
 
 <p align="center">
-  <img align="left" src="Figures/Figure1.png" width="400" align="left">
+  <img align="left" src="Figures/Figure1.png" width="400">
 </p>
 
 
