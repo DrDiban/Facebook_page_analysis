@@ -1,7 +1,7 @@
 # Facebook_page_analysis
 A set of data (147MB) comprising Facebook pages information such as likes, talking about count and check-ins are analysed for food and beverages companies.
 
-The data are filtered based on top 250 restaurant chain in US ('https://www.fsdbco.com/top-250-restaurant-chains-us-2019/')
+The data are filtered based on top 250 restaurant chain in US ('https://www.fsdbco.com/top-250-restaurant-chains-us-2019/').
 51 Facebook pages were idenfified related to the filter.
 
 **Table 1:** Top 5 most liked page in the dataset for food & beverage (USA) 
