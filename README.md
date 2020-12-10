@@ -22,7 +22,7 @@ The data are filtered based on top 250 restaurant chain in US ('https://www.fsdb
 | 4 | EddieVsPrimeSeafood | 74,770 |
 | 5 | Lubys | 35,593 |
 
-**Table 3:** Mean, median and standard deviation of Facebook food & beverage category likes 
+**Table 3:** Mean, median and standard deviation for food & beverage (USA) 
 | Index | Facebook likes |
 | --- | --- |
 | median | 1.347616e+06 |
